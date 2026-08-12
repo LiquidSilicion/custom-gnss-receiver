@@ -5,6 +5,7 @@
 //          Copyright (C) 2020-2029 by Jun Mo, All rights reserved.
 //
 //----------------------------------------------------------------------
+`include "address.v"
 
 module gnss_top
 (

@@ -5,7 +5,7 @@
 //          Copyright (C) 2020-2029 by Jun Mo, All rights reserved.
 //
 //----------------------------------------------------------------------
-
+`include "address.v"
 module ae_top #(parameter AE_BUFFER_SIZE = 128*256)
 (
 // system signals				
