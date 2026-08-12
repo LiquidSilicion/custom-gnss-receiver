@@ -1,0 +1,22 @@
+# ===== Vivado Generated Files (DO NOT COMMIT) =====
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/sources_1/
+*.srcs/sim_1/
+*.generated/
+*.jou
+*.log
+*.str
+*.dmp
+*.pb
+*.debug
+
+# Keep only source files
+!*.v
+!*.sv
+!*.xdc
+!*.tcl
